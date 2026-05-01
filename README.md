@@ -228,14 +228,14 @@ The application handles:
 
 ### Screenshots
 
-<img width="1910" height="969" alt="Screenshot 2026-05-01 104624" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img1.png" />
-<img width="1894" height="893" alt="Screenshot 2026-05-01 104650" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img2.png" />
-<img width="1886" height="888" alt="Screenshot 2026-05-01 104742" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img3.png" />
-<img width="1823" height="888" alt="Screenshot 2026-05-01 104755" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img4.png" />
-<img width="1288" height="877" alt="Screenshot 2026-05-01 104813" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img5.png" />
-<img width="1855" height="878" alt="Screenshot 2026-05-01 104822" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img6.png" />
-<img width="1875" height="878" alt="Screenshot 2026-05-01 105021" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img7.png" />
-<img width="1799" height="913" alt="Screenshot 2026-05-01 105040" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img8.png" />
+<img width="1910" height="969" alt="Screenshot 2026-05-01 104624" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img1.png" />
+<img width="1894" height="893" alt="Screenshot 2026-05-01 104650" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img2.png" />
+<img width="1886" height="888" alt="Screenshot 2026-05-01 104742" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img3.png" />
+<img width="1823" height="888" alt="Screenshot 2026-05-01 104755" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img4.png" />
+<img width="1288" height="877" alt="Screenshot 2026-05-01 104813" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img5.png" />
+<img width="1855" height="878" alt="Screenshot 2026-05-01 104822" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img6.png" />
+<img width="1875" height="878" alt="Screenshot 2026-05-01 105021" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img7.png" />
+<img width="1799" height="913" alt="Screenshot 2026-05-01 105040" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/assets/img8.png" />
 
 
 
