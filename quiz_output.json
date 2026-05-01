@@ -1,15 +1,42 @@
 {
-  "title": "Artificial Intelligence",
+  "title": "Coronavirus disease 2019",
+  "source_url": "https://en.wikipedia.org/wiki/Coronavirus_disease_2019",
+  "score": 70,
+  "total_questions": 10,
+  "correct_answers": 7,
   "questions": [
     {
-      "question": "What is AI?",
+      "question": "What is the virus that causes COVID-19?",
       "options": [
-        "Machine learning",
-        "Simulation of human intelligence",
-        "Database system",
-        "Programming language"
+        "Influenza virus",
+        "Ebola virus",
+        "SARS-CoV-2",
+        "Rhinovirus"
       ],
-      "answer": "Simulation of human intelligence"
+      "answer": "SARS-CoV-2",
+      "explanation": "COVID-19 is caused by the SARS-CoV-2 virus."
+    },
+    {
+      "question": "Which of the following is a common symptom of COVID-19?",
+      "options": [
+        "Sneezing",
+        "Loss of taste or smell",
+        "Yellow eyes",
+        "Hair loss"
+      ],
+      "answer": "Loss of taste or smell",
+      "explanation": "Loss of taste or smell is a common symptom."
+    },
+    {
+      "question": "How does COVID-19 primarily spread?",
+      "options": [
+        "Through contaminated food",
+        "By mosquito bites",
+        "Through respiratory droplets",
+        "By touching animals"
+      ],
+      "answer": "Through respiratory droplets",
+      "explanation": "It spreads via droplets from coughing/sneezing."
     }
   ]
 }
