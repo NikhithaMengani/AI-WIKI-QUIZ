@@ -218,7 +218,7 @@ The application handles:
 - **Google Gemini AI**: Language model for quiz generation
 - **Pydantic**: Data validation
 
-### Frontend
+### Frontend  
 - **React**: UI library
 - **Tailwind CSS**: Utility-first CSS framework
 - **Vite**: Build tool and dev server
@@ -228,15 +228,15 @@ The application handles:
 
 ### Screenshots
 
-<img width="1910" height="969" alt="Screenshot 2025-11-07 104624" src="https://github.com/user-attachments/assets/69f50034-3f65-4585-a070-7bfbdd96d82a" />
-<img width="1894" height="893" alt="Screenshot 2025-11-07 104650" src="https://github.com/user-attachments/assets/e41d24ca-2529-482b-9eb2-c691d78b5b61" />
-<img width="1886" height="888" alt="Screenshot 2025-11-07 104742" src="https://github.com/user-attachments/assets/46244146-81d7-4145-864a-9d993b5bc5ab" />
-<img width="1823" height="888" alt="Screenshot 2025-11-07 104755" src="https://github.com/user-attachments/assets/d8925140-f7d8-4e4e-871c-fac3580871a3" />
-<img width="1288" height="877" alt="Screenshot 2025-11-07 104813" src="https://github.com/user-attachments/assets/8c3608c5-ac7e-442c-83f2-0e28ead7b5b8" />
-<img width="1855" height="878" alt="Screenshot 2025-11-07 104822" src="https://github.com/user-attachments/assets/10724b5d-8e47-4351-88ea-ccaa7c95a8c3" />
-<img width="1875" height="878" alt="Screenshot 2025-11-07 105021" src="https://github.com/user-attachments/assets/c576b19a-780b-443f-9476-7ba70e734855" />
-<img width="1799" height="913" alt="Screenshot 2025-11-07 105040" src="https://github.com/user-attachments/assets/5c0a617e-558b-4755-9af5-bac873f3424a" />
-<img width="1857" height="917" alt="Screenshot 2025-11-07 105050" src="https://github.com/user-attachments/assets/3004979e-83d7-4733-802a-8d5bad0467e5" />
+<img width="1910" height="969" alt="Screenshot 2026-05-01 104624" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img1.png" />
+<img width="1894" height="893" alt="Screenshot 2026-05-01 104650" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img2.png" />
+<img width="1886" height="888" alt="Screenshot 2026-05-01 104742" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img3.png" />
+<img width="1823" height="888" alt="Screenshot 2026-05-01 104755" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img4.png" />
+<img width="1288" height="877" alt="Screenshot 2026-05-01 104813" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img5.png" />
+<img width="1855" height="878" alt="Screenshot 2026-05-01 104822" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img6.png" />
+<img width="1875" height="878" alt="Screenshot 2026-05-01 105021" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img7.png" />
+<img width="1799" height="913" alt="Screenshot 2026-05-01 105040" src="https://raw.githubusercontent.com/NikhithaMengani/AI-WIKI-QUIZ/main/img8.png" />
+
 
 
 
