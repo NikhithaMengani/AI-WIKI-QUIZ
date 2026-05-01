@@ -1,0 +1,15 @@
+{
+  "title": "Artificial Intelligence",
+  "questions": [
+    {
+      "question": "What is AI?",
+      "options": [
+        "Machine learning",
+        "Simulation of human intelligence",
+        "Database system",
+        "Programming language"
+      ],
+      "answer": "Simulation of human intelligence"
+    }
+  ]
+}
